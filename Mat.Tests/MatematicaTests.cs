@@ -12,10 +12,10 @@ public class MatematicaTests
     [InlineData(2, 2)]
     [InlineData(3, 6)]
     [InlineData(5, 120)]
-    public void DeveInformarUmNumeroInteiroNaoNegativoERetornarSeuFatorial(uint n, int fatorialEsperado)
+    public void DeveInformarUmNumeroInteiroNaoNegativoERetornarSeuFatorial(uint n, uint fatorialEsperado)
     {
         //Act
-        int fatorial = _mat.CalcularFatorial(n);
+        uint fatorial = _mat.CalcularFatorial(n);
         
         //Assert
         Assert.Equal(fatorialEsperado, fatorial);
