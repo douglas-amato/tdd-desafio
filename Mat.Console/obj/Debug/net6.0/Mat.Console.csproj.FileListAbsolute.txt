@@ -1,0 +1,15 @@
+C:\dio\tdd-desafio\Mat.Console\bin\Debug\net6.0\Mat.Console.exe
+C:\dio\tdd-desafio\Mat.Console\bin\Debug\net6.0\Mat.Console.deps.json
+C:\dio\tdd-desafio\Mat.Console\bin\Debug\net6.0\Mat.Console.runtimeconfig.json
+C:\dio\tdd-desafio\Mat.Console\bin\Debug\net6.0\Mat.Console.dll
+C:\dio\tdd-desafio\Mat.Console\bin\Debug\net6.0\Mat.Console.pdb
+C:\dio\tdd-desafio\Mat.Console\obj\Debug\net6.0\Mat.Console.csproj.AssemblyReference.cache
+C:\dio\tdd-desafio\Mat.Console\obj\Debug\net6.0\Mat.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\dio\tdd-desafio\Mat.Console\obj\Debug\net6.0\Mat.Console.AssemblyInfoInputs.cache
+C:\dio\tdd-desafio\Mat.Console\obj\Debug\net6.0\Mat.Console.AssemblyInfo.cs
+C:\dio\tdd-desafio\Mat.Console\obj\Debug\net6.0\Mat.Console.csproj.CoreCompileInputs.cache
+C:\dio\tdd-desafio\Mat.Console\obj\Debug\net6.0\Mat.Console.dll
+C:\dio\tdd-desafio\Mat.Console\obj\Debug\net6.0\refint\Mat.Console.dll
+C:\dio\tdd-desafio\Mat.Console\obj\Debug\net6.0\Mat.Console.pdb
+C:\dio\tdd-desafio\Mat.Console\obj\Debug\net6.0\Mat.Console.genruntimeconfig.cache
+C:\dio\tdd-desafio\Mat.Console\obj\Debug\net6.0\ref\Mat.Console.dll
